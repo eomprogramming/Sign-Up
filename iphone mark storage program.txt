@@ -1,0 +1,4 @@
+an iPhone app that will make allow math teachers to easily keep track of their students marks
+
+name + github username
+
