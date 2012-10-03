@@ -1,1 +1,3 @@
 program a game similar to Faster Than Light
+
+name + github username
