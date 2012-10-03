@@ -1,5 +1,5 @@
 add some improvements and extra features to the Caveman Game
 
 name + github username
-
-Ian Dewan (niuren)
+Aly - alyh
+Ian - niuren

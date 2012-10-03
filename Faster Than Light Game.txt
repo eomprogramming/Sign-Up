@@ -1,3 +1,5 @@
-program a game similar to Faster Than Light
+Program a game similar to Faster Than Light:
 
 name + github username
+
+Aly - alyh
