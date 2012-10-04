@@ -3,3 +3,5 @@ Java lessons for beginners including people who are currently taking ICS2O.
 name
 
 Sam Dewan - lugubrious
+
+Krystian Wojcicki - ub9111
