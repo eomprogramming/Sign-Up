@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<GitHousehold>
+    <Master>
+        <Name>git-bash</Name>
+        <Servant>
+            <Name>git-cmd</Name>
+            <Servant>
+                <Name>git gui</Name>
+                <Servant>
+                    <Name>Github for Windows</Name>
+                </Servant>
+            </Servant>
+        </Servant>
+    </Master>
+    <Conclusion>Therefore use git-bash since he is the master of everyone</Conclusion>
+</GitHousehold>
