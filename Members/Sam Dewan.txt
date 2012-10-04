@@ -1,1 +1,2 @@
-My name is Sam
+My name is Sam.
+Github GUI sucks, Terminal FTW
