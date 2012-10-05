@@ -1,3 +1,6 @@
 1. go into the Projects folder and put your name in the projects that you are interested in working on.
 2. add a text file named after you in the folder called Members and write something interesting about yourself in it
 3. open github for windows and commit your changes to your local repository then sync with the online repository
+
+note: I kind of promised the guidance counselors that the Peer Tutoring program would be done by December so it would be nice if 4-6ish people worked on it.
+
