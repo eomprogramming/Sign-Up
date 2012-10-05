@@ -1,6 +1,6 @@
 the title is fairly self-explanatory
 
-name + github username
+sign up below with your name + github username
 
 Aly + alyh
 

@@ -1,6 +1,6 @@
 Program a game similar to Faster Than Light:
 
-name + github username
+sign up below with your name + github username
 
 Aly - alyh
 

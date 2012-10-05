@@ -1,0 +1,7 @@
+Java lessons for people who have not programmed in Java before including people who are currently taking ICS2O.
+
+Instructor: Aly Hasan
+
+Sign up below with your name:
+
+Sam Dewan - lugubrious

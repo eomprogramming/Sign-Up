@@ -1,6 +1,6 @@
 add some improvements and extra features to both the android and computer version of the Caveman Game
 
-name + github username
+sign up below with your name + github username
 Aly - alyh
 Ian - niuren
 Ken - K3NN37H
