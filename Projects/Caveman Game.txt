@@ -1,4 +1,4 @@
-add some improvements and extra features to the Caveman Game
+add some improvements and extra features to both the android and computer version of the Caveman Game
 
 name + github username
 Aly - alyh
