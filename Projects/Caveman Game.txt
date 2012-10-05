@@ -4,3 +4,4 @@ name + github username
 Aly - alyh
 Ian - niuren
 Ken - K3NN37H
+Eric - Eric-DeMone
