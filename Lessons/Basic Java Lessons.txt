@@ -1,6 +1,6 @@
 Java lessons for people who have not programmed in Java before including people who are currently taking ICS2O.
 
-Instructor: Aly Hassan
+Instructor: Aly Hassan - 4 years of programming experience and an AppJam finalist!
 
 Sign up below with your name:
 

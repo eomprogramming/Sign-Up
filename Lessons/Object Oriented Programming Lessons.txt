@@ -1,7 +1,7 @@
 For people who know the basics of Java (if statments, loops, methods, variables) and
 are not familiar with object oriented programming
 
-Instructor: Ian Dewan
+Instructor: Ian Dewan - 5 years of programming experience (atleast), aced the AP computer science exam
 
 Sign up below with your name:
 
