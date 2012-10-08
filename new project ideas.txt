@@ -1,8 +1,5 @@
 List ideas for new projects here:
 
 Linux-based Operating System (Coded in any programming language we need to use) - Submitted by TheMinecraftianDaily
-<<<<<<< HEAD
 Drawing Program - DefinatelyNot Andrew
-=======
 
->>>>>>> 4e1c132e43b967c2cbbd73cf80de08bcecb48058
