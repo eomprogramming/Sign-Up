@@ -1,29 +1,11 @@
-Program a game similar to Faster Than Light:
+Program a game similar to Faster Than Light.
 
-sign up below with your name + github username
+Sign up below with your name + github username:
 
 Aly - alyh
-
 Rob - Robiathin
-
 Eric - Eric-DeMone
-
 Mattias - TheMinecraftianDaily
-
 Hao Wei - Hao-Wei
-
 Andrew Wong - PinguNinja
-
 Harry Bauer - KowTow
-
-                      /^--^\     /^--^\     /^--^\
-                      \____/     \____/     \____/
-                     /      \   /      \   /      \
-                    |        | |        | |        |
-                     \__  __/   \__  __/   \__  __/
-|^|^|^|^|^|^|^|^|^|^|^|^\ \^|^|^|^/ /^|^|^|^|^\ \^|^|^|^|^|^|^|^|^|^|^|^|
-| | | | | | | | | | | | |\ \| | |/ /| | | | | | \ \ | | | | | | | | | | |
-########################/ /######\ \###########/ /#######################
-| | | | | | | | | | | | \/| | | | \/| | | | | |\/ | | | | | | | | | | | |
-|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
-

@@ -1,9 +1,7 @@
-a program that will allow students to signup for peer tutoring online
+A program that will allow students to sign up for peer tutoring online.
 
-sign up below with your name + github username
+Sign up below with your name + github username:
 
 Christopher Zhu - Nintega
 Hao Wei - Hao-Wei
-
-Andrew Wong - PinguNinja(I <3 COOKIES)
-	
+Andrew Wong - PinguNinja	

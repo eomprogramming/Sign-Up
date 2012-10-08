@@ -1,5 +1,0 @@
-List ideas for new projects here:
-
-Linux-based Operating System (Coded in any programming language we need to use) - Submitted by TheMinecraftianDaily
-Drawing Program - DefinatelyNot Andrew
-

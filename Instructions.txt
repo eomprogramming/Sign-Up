@@ -1,0 +1,8 @@
+1. If you are comfortable with object oriented programming in Java or objective C, go into the Projects folder and put your name in the projects that you are interested in working on.
+2. If not, go to the lessons folders and sign up for one of the lessons.
+3. Add a text file named after you in the folder called Members and write something interesting about yourself in it.
+4. Open github for windows and commit your changes to your local repository, then sync with the online repository.
+
+Note 1: All programs are writen in java except iphone apps which are in objective C.
+
+Note 2: The Peer Tutoring app must be completed by December!
