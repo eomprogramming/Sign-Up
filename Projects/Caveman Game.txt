@@ -7,3 +7,5 @@ Ian - niuren
 Ken - K3NN37H
 Eric - Eric-DeMone                                       
 Hao Wei - Hao-Wei                                         
+ 
+Chris is making a fabulous chess ladder with poems and no line breaks. :) (There wasn't a text file for that, so I'm putting it here)
