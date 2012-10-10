@@ -2,7 +2,7 @@ Java lessons for people who have not programmed in Java before including those w
 
 Instructor: Aly Hassan - 4 years of programming experience and an AppJam winner!
 
-Sign up below with your name: Michael Kuang
+Sign up below with your name:
 
 Sam Dewan - lugubrious
 Joanna Huang - joanna-huang
