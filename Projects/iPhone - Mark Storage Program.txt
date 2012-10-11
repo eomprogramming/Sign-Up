@@ -2,4 +2,4 @@ An iPhone app that will make allow math teachers to easily keep track of their s
 
 Sign up below with your name + github username:
 
-Sunghyun Lee + Sunghyun Lee
+David Farrar + TnTDmon
